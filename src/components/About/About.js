@@ -8,7 +8,7 @@ const About = () => {
     <div className={classes.about__info}>
       <p className={classes.about__LineOne}>Swapnil Mishra</p>
       <p className={classes.about__LineTwo}>
-        I am a reacent graduate having pursued Information Technology from Guru Tegh
+        I am a recent graduate having pursued Information Technology from Guru Tegh
         Bahadur Institute of Technology affiliated to Guru Gobind Singh
         Indraprastha University.
         <br />
